@@ -3,6 +3,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on freelance frontend developer
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Javascript and Node Js.
 - 💬 Instagram : ical_andifaizal
 - ⚡ Fun fact: love about UI/UX design
