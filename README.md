@@ -1,5 +1,7 @@
 ## Andi Faizal
 
+('https://www.codewars.com/users/andi%20faizal/badges/large)[andi]
+
 #### Hi there 👋, nice to meet you. 
 My fullname is Andi Faizal, you can call my first name "Andi" or "Ical".
 I'm frontend developer and learning about fullstack developer. 
