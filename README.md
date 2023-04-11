@@ -1,6 +1,6 @@
 ## Andi Faizal
 
-![https://www.codewars.com/users/andi%20faizal/badges/large](andi)
+![andi](andi](https://www.codewars.com/users/andi%20faizal/badges/large)
 
 #### Hi there 👋, nice to meet you. 
 My fullname is Andi Faizal, you can call my first name "Andi" or "Ical".
